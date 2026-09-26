@@ -104,26 +104,6 @@ Lucide React
 
 
 
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=imp-521&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 My GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imp-521&theme=tokyo-night&hide_border=true" />
-
-</div>
-
 
 
 ---
