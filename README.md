@@ -102,17 +102,7 @@ Lucide React
 ▸ Convert designs into real websites
 ```
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imp-521&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imp-521&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
@@ -134,51 +124,7 @@ Lucide React
 
 </div>
 
----
 
-## 📌 Featured Projects
-
-### 💼 Personal Portfolio
-
-A modern personal portfolio built with Next.js, React, TypeScript and Tailwind CSS.
-
-**Tech:** `Next.js` `React` `TypeScript` `Tailwind CSS`
-
-🌐 **Live:** https://cool-cat-51bffb.netlify.app/
-
-📦 **Code:** https://github.com/imp-521/Portfolio
-
----
-
-## 🎯 Current Goals
-
-```text
-[x] Learn modern React development
-[x] Build responsive interfaces
-[x] Work with TypeScript
-[x] Learn Next.js
-[x] Build personal portfolio
-
-[ ] Build larger production applications
-[ ] Improve advanced TypeScript skills
-[ ] Learn backend development
-[ ] Work with APIs & databases
-[ ] Improve frontend performance
-[ ] Contribute to open-source projects
-```
-
----
-
-## 🌱 Currently Learning
-
-* Advanced React
-* Next.js
-* TypeScript
-* Frontend Architecture
-* Performance Optimization
-* Modern UI/UX
-* Backend Fundamentals
-* APIs & Databases
 
 ---
 
