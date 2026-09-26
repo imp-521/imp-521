@@ -86,25 +86,6 @@ Lucide React
 
 <p>   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" /> </p>
 
----
-
-## ⚡ What I Do
-
-```text
-▸ Build responsive websites
-▸ Develop React applications
-▸ Create Next.js applications
-▸ Build reusable UI components
-▸ Work with TypeScript
-▸ Create modern interfaces
-▸ Add animations & interactions
-▸ Optimize frontend performance
-▸ Convert designs into real websites
-```
-
-
-
-
 
 ---
 
