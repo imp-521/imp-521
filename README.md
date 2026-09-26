@@ -1,16 +1,223 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**imp-521/imp-521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Afshin Sohrabi
 
-Here are some ideas to get you started:
+### 💻 Frontend Developer | React | Next.js | TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build modern, responsive and interactive web experiences
+with a focus on clean UI, reusable components and great user experience.
+
+<br />
+
+<a href="https://github.com/imp-521">
+  <img src="https://img.shields.io/badge/GitHub-imp--521-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://cool-cat-51bffb.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+<a href="http://www.linkedin.com/in/afshinsohrabi">
+  <img src="https://img.shields.io/badge/LinkedIn-Afshin%20Sohrabi-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://t.me/imp_521">
+  <img src="https://img.shields.io/badge/Telegram-@imp__521-26A5E4?style=for-the-badge&logo=telegram" />
+</a>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm a **Frontend Developer** passionate about building modern and user-friendly web applications.
+
+I enjoy turning ideas and designs into responsive, interactive and maintainable interfaces.
+
+```text
+💻 Frontend Development
+⚛️ React & Next.js
+📘 TypeScript
+🎨 Tailwind CSS
+✨ Interactive UI & Animations
+📱 Responsive Web Design
+🚀 Modern Web Development
+```
+
+---
+
+## 🚀 My Portfolio
+
+One of my main projects is my personal portfolio, where I showcase my skills, experience, projects and development journey.
+
+### 🌐 Live Portfolio
+
+[**https://cool-cat-51bffb.netlify.app/**](https://cool-cat-51bffb.netlify.app/)
+
+### 📦 Repository
+
+[**https://github.com/imp-521/Portfolio**](https://github.com/imp-521/Portfolio)
+
+### 🛠️ Built With
+
+```text
+Next.js
+React
+TypeScript
+Tailwind CSS
+Framer Motion
+AOS
+shadcn/ui
+Radix UI
+Lucide React
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" /> </p>
+
+### Styling & UI
+
+<p>   <img src="https://skillicons.dev/icons?i=tailwind,sass" /> </p>
+
+### Tools
+
+<p>   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vercel" /> </p>
+
+---
+
+## ⚡ What I Do
+
+```text
+▸ Build responsive websites
+▸ Develop React applications
+▸ Create Next.js applications
+▸ Build reusable UI components
+▸ Work with TypeScript
+▸ Create modern interfaces
+▸ Add animations & interactions
+▸ Optimize frontend performance
+▸ Convert designs into real websites
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imp-521&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imp-521&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=imp-521&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 My GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imp-521&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+### 💼 Personal Portfolio
+
+A modern personal portfolio built with Next.js, React, TypeScript and Tailwind CSS.
+
+**Tech:** `Next.js` `React` `TypeScript` `Tailwind CSS`
+
+🌐 **Live:** https://cool-cat-51bffb.netlify.app/
+
+📦 **Code:** https://github.com/imp-521/Portfolio
+
+---
+
+## 🎯 Current Goals
+
+```text
+[x] Learn modern React development
+[x] Build responsive interfaces
+[x] Work with TypeScript
+[x] Learn Next.js
+[x] Build personal portfolio
+
+[ ] Build larger production applications
+[ ] Improve advanced TypeScript skills
+[ ] Learn backend development
+[ ] Work with APIs & databases
+[ ] Improve frontend performance
+[ ] Contribute to open-source projects
+```
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced React
+* Next.js
+* TypeScript
+* Frontend Architecture
+* Performance Optimization
+* Modern UI/UX
+* Backend Fundamentals
+* APIs & Databases
+
+---
+
+## 💬 Let's Connect
+
+I'm always interested in connecting with other developers, learning new technologies and working on interesting projects.
+
+<div align="center">
+
+<a href="https://github.com/imp-521">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="http://www.linkedin.com/in/afshinsohrabi">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://t.me/imp_521">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://cool-cat-51bffb.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Code. Create. Learn. Repeat. 🚀
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=imp-521&style=for-the-badge&color=blueviolet" />
+
+<br /><br />
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
